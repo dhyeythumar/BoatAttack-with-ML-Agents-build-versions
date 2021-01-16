@@ -1,0 +1,7 @@
+{
+    "env_name": "Boat-Attack-with-ML-Agents-build-versions/BoatAttack-1.0/BoatAttack with ML-Agents.exe",
+    "hyper_parameters": "Boat-Attack-with-ML-Agents-build-versions/config.yaml",
+    "unityplayer_path": "Boat-Attack-with-ML-Agents-build-versions/BoatAttack-1.0/UnityPlayer.dll",
+    "permission_path": "Boat-Attack-with-ML-Agents-build-versions/BoatAttack-1.0/",
+    "run_id": "train-1"
+}
