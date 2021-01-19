@@ -3,5 +3,6 @@
     "hyper_parameters": "BoatAttack-with-ML-Agents-build-versions/config.yaml",
     "unityplayer_path": "BoatAttack-with-ML-Agents-build-versions/BoatAttack-1.0/UnityPlayer.dll",
     "permission_path": "BoatAttack-with-ML-Agents-build-versions/BoatAttack-1.0/",
-    "run_id": "train-1"
+    "run_id": "train-1",
+    "time_scale": 10
 }
