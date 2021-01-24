@@ -10,6 +10,24 @@ This branch contains the Linux build version of <a href="https://github.com/Dhye
 > -   You will find various build versions on different branches.
 > -   Now checkout the branch suitable to your OS and run the executable file. 😎
 
+## YouTube Videos
+
+<p align="center">
+    <table style="border-collapse:collapse;">
+        <tr>
+            <td><a href="https://youtu.be/8N1f70Wxowk">
+                    <img alt="video stats" src="https://youtube-stats-card.vercel.app/api/video?videoid=8N1f70Wxowk&theme=dark_pink" />
+                </a>
+            </td>
+            <td><a href="https://youtu.be/T0Oxb3aliwQ">
+                    <img alt="video stats" src="https://youtube-stats-card.vercel.app/api/video?videoid=T0Oxb3aliwQ&theme=dark_pink" />
+                </a>
+            </td>
+        </tr>
+    </table>
+Check out the above youtube video on "<ins>Navigation strategies learned by an ML-Agent</ins>" on a custom environment made with Unity Engine.
+</p>
+
 ## Environment Details
 
 ![BoatAttack](https://raw.githubusercontent.com/Dhyeythumar/impression/master/boat_attack_assets/env.png)
