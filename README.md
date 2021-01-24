@@ -25,7 +25,7 @@ This branch contains the windows build version of <a href="https://github.com/Dh
             </td>
         </tr>
     </table>
-    Check out the above youtube video on "<ins>Navigation strategies learned by an ML-Agent</ins>" on a custom environment made with Unity Engine.
+    Check out the above youtube video on "Navigation strategies learned by an ML-Agent" on a custom environment made with Unity Engine.
 </p>
 
 ## Environment Details
@@ -45,7 +45,7 @@ This branch contains the windows build version of <a href="https://github.com/Dh
         -   1 variable stacked 3 times to capture the speed  (Total 3 variable) of the agent
     -   Vector Action space (Continuous): Size of 2 correspondings to agents rotation and forward/backward movement
     -   Visual Observations (Optional): None
--   Benchmark Mean Reward: (Yet to find)
+-   Benchmark Mean Reward: 13.4
 
 ## License
 
