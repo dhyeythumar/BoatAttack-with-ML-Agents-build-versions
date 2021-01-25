@@ -4,6 +4,7 @@ Library: lib_burst_generated
 --target=X64_SSE2
 --dump=Function
 --float-precision=Standard
+--compilation-defines=UNITY_SERVER
 --compilation-defines=UNITY_2020_2_1
 --compilation-defines=UNITY_2020_2
 --compilation-defines=UNITY_2020
@@ -158,6 +159,7 @@ Library: lib_burst_generated
 --target=X64_SSE4
 --dump=Function
 --float-precision=Standard
+--compilation-defines=UNITY_SERVER
 --compilation-defines=UNITY_2020_2_1
 --compilation-defines=UNITY_2020_2
 --compilation-defines=UNITY_2020
@@ -312,6 +314,7 @@ Library: lib_burst_generated
 --target=AVX
 --dump=Function
 --float-precision=Standard
+--compilation-defines=UNITY_SERVER
 --compilation-defines=UNITY_2020_2_1
 --compilation-defines=UNITY_2020_2
 --compilation-defines=UNITY_2020
@@ -466,6 +469,7 @@ Library: lib_burst_generated
 --target=AVX2
 --dump=Function
 --float-precision=Standard
+--compilation-defines=UNITY_SERVER
 --compilation-defines=UNITY_2020_2_1
 --compilation-defines=UNITY_2020_2
 --compilation-defines=UNITY_2020
