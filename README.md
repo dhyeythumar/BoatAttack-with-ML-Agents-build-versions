@@ -1,7 +1,7 @@
-# BoatAttack with ML-Agents (Linux Build - 1.0)
+# BoatAttack with ML-Agents (Linux Server Build - 1.0)
 
 <h4 align="center">
-This branch contains the Linux build version of <a href="https://github.com/Dhyeythumar/BoatAttack-with-ML-Agents">BoatAttack with ML-Agents</a> repo.
+This branch contains the Linux Server/Headless build version of <a href="https://github.com/Dhyeythumar/BoatAttack-with-ML-Agents">BoatAttack with ML-Agents</a> repo.
 </h4>
 
 > **Note:**
@@ -38,7 +38,7 @@ Check out the above youtube video on "Navigation strategies learned by an ML-Age
 -   Agent Reward Function (independent):
     -   Speed \* 0.001 at each step
     -   -1.0 when agent crashes
-    -   checkpoint value \* 0.0001
+    -   checkpoint value \* 0.00002
 -   Behavior Parameters:
     -   Vector Observation space: 171 variables corresponding to
         -   56 ray-casts stacked 3 times to capture motion (Total 168 ray-casts) each detecting one of two possible objects (boundary & ground)
