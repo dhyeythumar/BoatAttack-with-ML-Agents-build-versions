@@ -4,6 +4,9 @@
 This branch contains the Linux build version of <a href="https://github.com/Dhyeythumar/BoatAttack-with-ML-Agents">BoatAttack with ML-Agents</a> repo.
 </h4>
 
+> **⚠ Warning:** <br />
+> This repo contains LFS tracked files. So contact me if you are facing any issues while cloning, forking, or downloading this repository because it's probably that I have exhausted GitHub's LFS quota. (Issues like not able to fetch all the files or some of the files that look missing)
+>
 > **Note:**
 >
 > -   If you want to try out the **BoatAttack with ML-Agents**, then fork and clone this repo.
